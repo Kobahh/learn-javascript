@@ -1,6 +1,8 @@
 # learn-javascript
 Repository to learn javascript 
 
+![JavaScript Logo](/.attachments/js.png)
+
 ## directory structure
 
 ```text
